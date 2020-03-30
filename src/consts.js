@@ -1,5 +1,5 @@
 export const COMETCHAT_CONSTANTS = {
-    APP_ID: 'Your App ID',
-    REGION: 'Region',
-    API_KEY: 'Your Api Key'
+    APP_ID: '16018dc35762f68',
+    REGION: 'eu',
+    API_KEY: 'b804100b318992655ce69534dce8aa05dfa6d64e'
 }
